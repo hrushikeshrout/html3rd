@@ -359,5 +359,11 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+  },
+  {
+    "name": "Hrushikesh Rout",
+    "github_handle": "hrushikeshrout",
+    "hacktoberfest_round": "second",
+    "role": ["contributor"]
   }
 ]
